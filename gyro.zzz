@@ -2,7 +2,7 @@ deps:
   ziglyph:
     git:
       url: "https://github.com/jecolon/ziglyph.git"
-      ref: a737cf1808f35f7cb5eb54a9b0bc47d839bae506
+      ref: 1202293092d440ea8d4d2533f11cbb7a52e0078b
       root: src/ziglyph.zig
   cow_list:
     git:
