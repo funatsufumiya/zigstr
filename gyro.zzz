@@ -1,0 +1,11 @@
+deps:
+  ziglyph:
+    git:
+      url: "https://github.com/jecolon/ziglyph.git"
+      ref: a737cf1808f35f7cb5eb54a9b0bc47d839bae506
+      root: src/ziglyph.zig
+  cow_list:
+    git:
+      url: "https://github.com/jecolon/cow_list.git"
+      ref: de31646626b059d9ee8a88bee7f6f24163595e59
+      root: src/main.zig
