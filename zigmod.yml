@@ -1,0 +1,14 @@
+id: ca3584051cd5e4ccc220afdc33b24569e7e8ec8fa
+name: Zigstr
+main: src/Zigstr.zig
+license: MIT
+description: UTF-8 string type
+dependencies:
+  - src: git https://github.com/jecolon/ziglyph
+    name: ziglyph
+    version: commit-1202293092d440ea8d4d2533f11cbb7a52e0078b
+    main: src/ziglyph.zig
+  - src: git https://github.com/jecolon/cow_list
+    name: cow_list
+    version: commit-de31646626b059d9ee8a88bee7f6f24163595e59
+    main: src/main.zig
