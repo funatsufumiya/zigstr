@@ -1,3 +1,7 @@
+pkgs:
+  Zigstr:
+    root: src/Zigstr.zig
+
 deps:
   ziglyph:
     git:
