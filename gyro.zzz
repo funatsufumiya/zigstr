@@ -1,5 +1,6 @@
 pkgs:
   Zigstr:
+    version: latest
     root: src/Zigstr.zig
 
 deps:
